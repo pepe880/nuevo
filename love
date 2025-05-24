@@ -1,0 +1,11 @@
+.love-text {
+   position: absolute;
+   top: 550px; 
+   left: 50%;
+   transform: translate(-50%);
+   font-size: 100px;
+   font-weight: bold;
+   font-family: 'Courier New', Courier, monospace';
+   }
+
+
